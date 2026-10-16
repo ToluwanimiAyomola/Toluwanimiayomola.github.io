@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ayomola Toluwanimi Henry | Data Science & Analytics - FUOYE</title>
+<meta name="description" content="Ayomola Toluwanimi Henry is a Data Science & Analytics undergraduate at FUOYE, Ekiti, Nigeria. Python developer and creator of Python calculator .py">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ayomola Toluwanimi Henry",
+  "alternateName": ["Toluwanimi Ayomola", "Toluwanimi Henry"],
+  "url": "https://toluwanimiayomola.github.io",
+  "sameAs": ["https://github.com/Toluwanimiayomola"],
+  "jobTitle": "Data Science & Analytics Student, Python Developer",
+  "affiliation": {"@type": "CollegeOrUniversity","name": "Federal University Oye Ekiti (FUOYE)"},
+  "homeLocation": {"@type": "Place","name": "Ekiti, Nigeria"},
+  "description": "Ayomola Toluwanimi Henry is a Data Science & Analytics undergraduate at FUOYE, Ekiti, Nigeria. Python developer, creator of Python calculator .py by Toluwanimi Ayomola from Ekiti, Nigeria."
+}
+</script>
+</head>
+<body>
+<h1>Ayomola Toluwanimi Henry</h1>
+<p>Data Science & Analytics @ FUOYE | Python Developer | Ekiti, Nigeria</p>
+
+<h2>About Me</h2>
+<p>Ayomola Toluwanimi Henry is a Data Science & Analytics undergraduate at Federal University Oye Ekiti (FUOYE), Ekiti, Nigeria.</p>
+<p>I am a Python developer and digital creator focused on Data Science, Analytics, and Automation. Creator of Python calculator .py by Toluwanimi Ayomola from Ekiti, Nigeria.</p>
+
+<h2>Featured Project</h2>
+<p>🧮 Python Calculator .py - View on GitHub: github.com/Toluwanimiayomola/Calculator.py</p>
+
+<h2>Connect</h2>
+<p>Portfolio: toluwanimiayomola.github.io | GitHub: github.com/Toluwanimiayomola</p>
+</body>
+</html>
